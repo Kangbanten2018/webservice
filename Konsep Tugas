@@ -1,0 +1,12 @@
+Pada Tugas Kali ini kami akan membuat sistem akademik 
+pada tugas ini ada 3 platform yaitu web/desktop/dan android.
+untuk service nya kita menggunakan nodejs dan php
+untuk progres sekarang kami akan membuat service nya terlebih dahulu pada php dan nodejs.
+untuk aplikasi desktop menggunakan visual basic
+untuk android menggunakan android studio
+untuk web menggunakan sublime
+untuk service nya menggunakan php dan nodejs.
+ada service untuk pendataan mahasiswa
+service untuk pendataan KKN
+dan service untuk pendataan Wisuda.
+disini kita ingin memakai 3 service yang di dalam nya bsa d akses melalui 3 platform tadi yang sudah di jelaskan.
